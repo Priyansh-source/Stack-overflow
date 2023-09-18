@@ -28,14 +28,9 @@ npm install
 
 npm start
 
-
-## Pics of the application
-
-
-
 ## Live Link for the website:
 
-
+[Click here](https://stack-overflow-client-nstx.onrender.com)
 
 ## Contributions
 
